@@ -14,7 +14,7 @@
 <h2>🔐 Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/brianrodger4/ActiveDirectoryLab/tree/main)
-- [Conducting a Security Audit]()
+- [Conducting a Security Audit](https://github.com/brianrodger4/ConductingSecurityAudit)
 
 <h2>👨‍💻 Programming Projects</h2>
 
