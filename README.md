@@ -22,6 +22,12 @@
 - <b>Python</b>
   - [Hello World](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
+
+<h2>🏆 Certifications</h2>
+
+- [Foundations of Cybersecurity](https://coursera.org/verify/B7JIGAL3QAP7)
+
+
 <!--
 **brianrodger4/brianrodger4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
