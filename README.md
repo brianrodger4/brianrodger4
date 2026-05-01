@@ -15,6 +15,12 @@
 
 - [Active Directory Home Lab](https://github.com/brianrodger4/ActiveDirectoryLab/tree/main)
 - [Conducting a Security Audit](https://github.com/brianrodger4/ConductingSecurityAudit)
+- [Analyzing Protocols with Wireshark]()
+- [Using Wireshark and NetWitness Investigator to Analyze Wireless Traffic]()
+- [Configuring a pfSense Firewall on a Client]()
+- [Configuring a pfSense Firewall on a Server]()
+- [Social Engineering Lab]()
+- [Penetration Testing a pfSense Firewall]()
 
 <h2>👨‍💻 Programming Projects</h2>
 
