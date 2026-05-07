@@ -2,14 +2,7 @@
 
 <h2>🌐 Network Engineering Projects:</h2>
 
-- <b>Cisco</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Juniper</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-- <b>Fortinet</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-- <b>AWS</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+
 
 <h2>🔐 Cybersecurity Projects:</h2>
 
@@ -25,10 +18,9 @@
 <h2>👨‍💻 Programming Projects</h2>
 
 - <b>Java</b>
-  - [Hello World](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Hello World]()
 - <b>Python</b>
-  - [Hello World](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-
+  - [Hello World]()
 
 <h2>🏆 Certifications</h2>
 
