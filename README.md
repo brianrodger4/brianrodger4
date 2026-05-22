@@ -26,6 +26,7 @@
 
 - [Foundations of Cybersecurity](https://coursera.org/verify/B7JIGAL3QAP7)
 - [Manage Security Risks](https://coursera.org/verify/W0NVP8YNR00T)
+- [Connect and Protect: Networks and Network Security](https://coursera.org/verify/BBRCPCK5D2JU)
 
 <!--
 **brianrodger4/brianrodger4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
