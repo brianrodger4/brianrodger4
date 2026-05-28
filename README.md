@@ -24,13 +24,14 @@
 
 <h2>🏆 Certifications</h2>
 
-- [Foundations of Cybersecurity](https://coursera.org/verify/B7JIGAL3QAP7)
-- [Manage Security Risks](https://coursera.org/verify/W0NVP8YNR00T)
-- [Connect and Protect: Networks and Network Security](https://coursera.org/verify/BBRCPCK5D2JU)
-- [Tools of the Trade: Linux and SQL](https://coursera.org/verify/5IJDI1H0G4UX)
-- [Assets, Threats, and Vulnerabilities](https://coursera.org/verify/PI5S2LO0KCYH)
-- [Sound The Alarm: Detection and Response](https://coursera.org/verify/9EG1Q7Q2JBDF)
-- [Automate Cybersecurity Tasks with Python](https://coursera.org/verify/AXWB3O4Y9COO)
+- <b> [Google Cyberseecurity Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/I9TAC1E46SZP) <b>
+  - [Foundations of Cybersecurity](https://coursera.org/verify/B7JIGAL3QAP7)
+  - [Manage Security Risks](https://coursera.org/verify/W0NVP8YNR00T)
+  - [Connect and Protect: Networks and Network Security](https://coursera.org/verify/BBRCPCK5D2JU)
+  - [Tools of the Trade: Linux and SQL](https://coursera.org/verify/5IJDI1H0G4UX)
+  - [Assets, Threats, and Vulnerabilities](https://coursera.org/verify/PI5S2LO0KCYH)
+  - [Sound The Alarm: Detection and Response](https://coursera.org/verify/9EG1Q7Q2JBDF)
+  - [Automate Cybersecurity Tasks with Python](https://coursera.org/verify/AXWB3O4Y9COO)
 
 
 <!--
