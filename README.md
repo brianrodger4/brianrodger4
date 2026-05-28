@@ -29,6 +29,9 @@
 - [Connect and Protect: Networks and Network Security](https://coursera.org/verify/BBRCPCK5D2JU)
 - [Tools of the Trade: Linux and SQL](https://coursera.org/verify/5IJDI1H0G4UX)
 - [Assets, Threats, and Vulnerabilities](https://coursera.org/verify/PI5S2LO0KCYH)
+- [Sound The Alarm: Detection and Response](https://coursera.org/verify/9EG1Q7Q2JBDF)
+- [Automate Cybersecurity Tasks with Python](https://coursera.org/verify/AXWB3O4Y9COO)
+
 
 <!--
 **brianrodger4/brianrodger4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
