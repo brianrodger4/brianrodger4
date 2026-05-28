@@ -24,7 +24,7 @@
 
 <h2>🏆 Certifications</h2>
 
-- <b> [Google Cyberseecurity Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/I9TAC1E46SZP) <b>
+- [Google Cybersecurity Certification](https://coursera.org/verify/professional-cert/I9TAC1E46SZP)
   - [Foundations of Cybersecurity](https://coursera.org/verify/B7JIGAL3QAP7)
   - [Manage Security Risks](https://coursera.org/verify/W0NVP8YNR00T)
   - [Connect and Protect: Networks and Network Security](https://coursera.org/verify/BBRCPCK5D2JU)
