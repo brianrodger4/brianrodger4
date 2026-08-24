@@ -11,8 +11,8 @@
 - [Analyzing Protocols with Wireshark](https://github.com/brianrodger4/AnalyzingProtocolsWireshark/tree/main)
 - [Using Wireshark and NetWitness Investigator to Analyze Wireless Traffic](https://github.com/brianrodger4/AnalyzeWirelessTraffic)
 - [Configuring a pfSense Firewall on a Server](https://github.com/brianrodger4/ConfigurepfSenseOnServer)
-- [Social Engineering Lab]()
-- [Penetration Testing a pfSense Firewall]()
+- [Social Engineering Lab](https://github.com/brianrodger4/SocialEngineering)
+- [Penetration Testing a pfSense Firewall](https://github.com/brianrodger4/PenTestingpfSenseFirewall/tree/main)
 
 <h2>👨‍💻 Programming Projects</h2>
 
