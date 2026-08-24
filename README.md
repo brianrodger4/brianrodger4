@@ -10,7 +10,6 @@
 - [Conducting a Security Audit](https://github.com/brianrodger4/ConductingSecurityAudit)
 - [Analyzing Protocols with Wireshark](https://github.com/brianrodger4/AnalyzingProtocolsWireshark/tree/main)
 - [Using Wireshark and NetWitness Investigator to Analyze Wireless Traffic](https://github.com/brianrodger4/AnalyzeWirelessTraffic)
-- [Configuring a pfSense Firewall on a Client]()
 - [Configuring a pfSense Firewall on a Server]()
 - [Social Engineering Lab]()
 - [Penetration Testing a pfSense Firewall]()
