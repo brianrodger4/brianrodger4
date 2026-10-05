@@ -2,24 +2,20 @@
 
 <h2>🌐 Network Engineering Projects:</h2>
 
+- [Active Directory Home Lab](https://github.com/brianrodger4/ActiveDirectoryLab/tree/main)
 
 
 <h2>🔐 Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/brianrodger4/ActiveDirectoryLab/tree/main)
-- [Conducting a Security Audit](https://github.com/brianrodger4/ConductingSecurityAudit)
-- [Analyzing Protocols with Wireshark](https://github.com/brianrodger4/AnalyzingProtocolsWireshark/tree/main)
-- [Using Wireshark and NetWitness Investigator to Analyze Wireless Traffic](https://github.com/brianrodger4/AnalyzeWirelessTraffic)
-- [Configuring a pfSense Firewall on a Server](https://github.com/brianrodger4/ConfigurepfSenseOnServer)
-- [Social Engineering Lab](https://github.com/brianrodger4/SocialEngineering)
-- [Penetration Testing a pfSense Firewall](https://github.com/brianrodger4/PenTestingpfSenseFirewall/tree/main)
+
 
 <h2>👨‍💻 Programming Projects</h2>
 
-- <b>Java</b>
-  - [Hello World]()
 - <b>Python</b>
-  - [Hello World]()
+  - [Automated Meal Planner]()
+  - [ATLAS]()
+
 
 <h2>🏆 Certifications</h2>
 
