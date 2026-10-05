@@ -2,12 +2,12 @@
 
 <h2>🌐 Network Engineering Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/brianrodger4/ActiveDirectoryLab/tree/main)
+- [Enterprise Network](https://github.com/brianrodger4/ActiveDirectoryLab/tree/main)
 
 
 <h2>🔐 Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/brianrodger4/ActiveDirectoryLab/tree/main)
+- [Juice Shop](https://github.com/brianrodger4/ActiveDirectoryLab/tree/main)
 
 
 <h2>👨‍💻 Programming Projects</h2>
