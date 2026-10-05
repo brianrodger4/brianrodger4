@@ -2,7 +2,7 @@
 
 <h2>🌐 Network Engineering Projects:</h2>
 
-- [Enterprise Network]()
+- [Enterprise Network](https://github.com/brianrodger4/EnterpriseNetwork)
 
 
 <h2>🔐 Cybersecurity Projects:</h2>
@@ -10,14 +10,14 @@
 - [Analyzing Wireless Traffic](https://github.com/brianrodger4/AnalyzeWirelessTraffic)
 - [Analyzing Packets with Wireshark](https://github.com/brianrodger4/AnalyzingProtocolsWireshark)
 - [Conducting a Security Audit](https://github.com/brianrodger4/ConductingSecurityAudit)
-- [Juice Shop](https://github.com/brianrodger4/ActiveDirectoryLab/tree/main)
+- [Juice Shop](https://github.com/brianrodger4/JuiceShop)
 
 
 <h2>👨‍💻 Programming Projects</h2>
 
 - <b>Python</b>
-  - [Automated Meal Planner]()
-  - [ATLAS]()
+  - [Automated Meal Planner](https://github.com/brianrodger4/AutomatedMealPlanner)
+  - [ATLAS](https://github.com/brianrodger4/ATLAS)
 
 
 <h2>🏆 Certifications</h2>
