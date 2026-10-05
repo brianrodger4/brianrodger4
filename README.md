@@ -2,11 +2,14 @@
 
 <h2>🌐 Network Engineering Projects:</h2>
 
-- [Enterprise Network](https://github.com/brianrodger4/ActiveDirectoryLab/tree/main)
+- [Enterprise Network]()
 
 
 <h2>🔐 Cybersecurity Projects:</h2>
 
+- [Analyzing Wireless Traffic](https://github.com/brianrodger4/AnalyzeWirelessTraffic)
+- [Analyzing Packets with Wireshark](https://github.com/brianrodger4/AnalyzingProtocolsWireshark)
+- [Conducting a Security Audit](https://github.com/brianrodger4/ConductingSecurityAudit)
 - [Juice Shop](https://github.com/brianrodger4/ActiveDirectoryLab/tree/main)
 
 
