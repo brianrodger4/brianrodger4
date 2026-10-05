@@ -1,4 +1,4 @@
-<h1>Hi, I'm Brian! <br/> <a>Network Engineer</a>, <a>Cybersecurity Professional</a>, <a>Programmer</a></h1>
+<h1>Hi, I'm Brian! <br/> <a>Network Engineer</a> | <a>Cybersecurity Professional</a> | <a>Programmer</a></h1>
 
 <h2>🌐 Network Engineering Projects:</h2>
 
